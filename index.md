@@ -7,5 +7,5 @@ title: My Engineering Portfolio
 I am a professional in Electronics with +20 years of experience, now exploring the world of 3D Web Development and the intersection with embedded systems.
 
 ### Featured Projects:
-* [🎉 Confetti Challenge](https://zrDavid.github.io/Confetti/)
+* [🎉 Confetti Challenge](https://zrdavid.github.io/Confetti_Challenge/)
 * [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/)
