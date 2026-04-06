@@ -1,0 +1,16 @@
+---
+---
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap');
+
+body {
+  // Dark background and 'Inter' font
+  background-color: #f8f9fa; 
+  font-family: 'Inter', sans-serif;
+  color: #333;
+}
+
+// Header color
+h1, h2, h3 {
+  color: #005a9c; 
+}
