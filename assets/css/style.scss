@@ -18,12 +18,13 @@ body {
 }
 
 .site-title {
-  color: #D9D9D9;
+  color: #D9D9D9 !important;
 }
 
 .site-description {
   text-align: justify !important;
   max-width: 400px !important; 
+  color: #D9D9D9 !important;
 }
 
 // Header color
