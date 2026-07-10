@@ -1,3 +1,15 @@
+---
+---
+@import "{{ site.theme }}";
+@import url('https://rsms.me/inter/inter.css');
+
+body {
+  // Dark background and 'Inter' font
+  background-color: #D9D9D9; 
+  font-family: 'Inter', sans-serif;
+  color: #284b63;
+}
+
 .site-title {
   color: #4361EE;
 }
@@ -5,20 +17,6 @@
 .site-description {
   text-align: justify !important;
   max-width: 600px; 
-}
-
----
----
-@import "{{ site.theme }}";
-@import url('https://rsms.me/inter/inter.css');
-
-
-
-body {
-  // Dark background and 'Inter' font
-  background-color: #D9D9D9; 
-  font-family: 'Inter', sans-serif;
-  color: #284b63;
 }
 
 // Header color
