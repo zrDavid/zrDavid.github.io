@@ -1,6 +1,6 @@
 ---
 layout: default
-title: | Portfolio
+title: My Portfolio
 ---
 # HI! I'm <span style="color: #778DA9;">David Zegarra</span>
 Welcome to my portfolio of projects, a working record built, documented and shared.
