@@ -17,14 +17,15 @@ body {
   color: #284b63;
 }
 
-.site-title {
+.page-header h1 {
   color: #D9D9D9 !important;
 }
 
-.site-description {
+.page-header p {
   text-align: justify !important;
   max-width: 400px !important; 
   color: #D9D9D9 !important;
+  margin-left: auto;
 }
 
 // Header color
