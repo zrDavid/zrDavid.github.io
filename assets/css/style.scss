@@ -8,6 +8,7 @@
   /* Use a solid color instead of a gradient */
   background-image: none !important;
   background-color: #284b63 !important; 
+  color: #D9D9D9 !important;
 }
 
 body {
@@ -15,13 +16,6 @@ body {
   background-color: #D9D9D9; 
   font-family: 'Inter', sans-serif;
   color: #284b63;
-}
-
-/* Force the color on the parent, which the paragraph might be inheriting */
-.page-header {
-  color: #D9D9D9 !important;
-  background-image: none !important;
-  background-color: #284b63 !important; 
 }
 
 .page-header h1 {
