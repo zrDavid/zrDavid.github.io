@@ -3,6 +3,11 @@
 @import "{{ site.theme }}";
 @import url('https://rsms.me/inter/inter.css');
 
+.site-title {
+  color: #1B263B;
+  font-weight: bold
+}
+
 body {
   // Dark background and 'Inter' font
   background-color: #E0E1DD; 
