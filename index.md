@@ -4,7 +4,7 @@ title: My Engineering Portfolio
 ---
 
 # Welcome to my Lab
-I am a professional in Electronics with +20 years of experience, now exploring the world of Web Development and its intersection with embedded systems.
+I am a professional in Electronics with +20 years in the field. These days I navigate both domains -the embedded circuit and the web interface that makes it useful- building at the intersection of embedded systems, IoT/RFID, and web development with Python as a frequent tool. An advocate of good documentation, because it's what keeps a project alive.
 
 ## Featured Projects:
 ### Web Development
