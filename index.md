@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Engineering Portfolio
+title: David Zegarra | Portfolio
 ---
 
 # Featured Projects
