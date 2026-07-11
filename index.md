@@ -2,7 +2,7 @@
 layout: default
 title: David Zegarra
 ---
-# ABOUT ME David Zegarra
+# ABOUT ME
 Hi!, I'm a professional in Electronics with +20 years in the field. A self-taught programmer, these days I navigate the embedded circuit and web interface domains, building at the intersection of embedded systems, IoT/RFID, and web development. An advocate of good documentation, because it's what keeps a project alive and shareable.
 
 # RECENT PROJECTS
