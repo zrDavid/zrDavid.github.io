@@ -7,36 +7,35 @@
 .page-header {
   /* Use a solid color instead of a gradient */
   background-image: none !important;
-  background-color: #284b63 !important; 
-  color: #D9D9D9 !important;
+  background-color: #64748B !important; 
+  color: #0F172A !important;
 }
 
 body {
-  // Dark background and 'Inter' font
-  background-color: #D9D9D9; 
+  background-color: #F4F4F4; 
   font-family: 'Inter', sans-serif;
-  color: #284b63;
+  color: #0F172A;
 }
 
 .page-header h1 {
-  color: #4361EE !important;
+  color: #0F172A !important;
 }
 
 .page-header h2 {
   text-align: justify !important;
   max-width: 800px !important; 
-  color: #D9D9D9 !important;
+  color: #0F172A !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
 // Header color
 h1, h2, h3 {
-  color: #284b63 !important; 
+  color: #22D3EE !important; 
 }
 
 a {
-  color: #778DA9;
+  color: #64748B;
 }
 a:visited {
   color: #415A77;
