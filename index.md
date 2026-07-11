@@ -2,10 +2,10 @@
 layout: default
 title: David Zegarra
 ---
-# HI!
-Welcome to my portfolio of projects, a working record built, documented and shared.
+# ABOUT ME
+Hi!, I'm a professional in Electronics with +20 years in the field. a self-taught programmer, these days I navigate the embedded circuit and web interface domains, building at the intersection of embedded systems, IoT/RFID, and web development. An advocate of good documentation, because it's what keeps a project alive and shareable.
 
-# Featured Projects
+# RECENT PROJECTS
 Categorized by domain. 
 
 ## Web Development
