@@ -12,6 +12,14 @@ title: David Zegarra
   {% endfor %}
 </div>
 
+<div class="social-mobile-footer">
+  {% for link in site.social %}
+    <a href="{{ link.url }}" target="_blank" aria-label="{{ link.platform }}">
+      <i class="fab {{ link.icon }}"></i>
+    </a>
+  {% endfor %}
+</div>
+
 # ABOUT ME
 Hi!, I'm a professional in Electronics with +20 years in the field. A self-taught programmer, these days I navigate the embedded circuit and web interface domains, building at the intersection of embedded systems, IoT/RFID, and web development. An advocate of good documentation, because it's what keeps a project alive and shareable.
 
