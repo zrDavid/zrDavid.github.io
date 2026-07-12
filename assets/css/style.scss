@@ -45,6 +45,36 @@ a:visited {
   color: #415A77;
 }
 
+/* Sidebar Banner styling */
+.social-sidebar-right {
+  position: fixed;
+  right: 0;
+  top: 40%;
+  background-color: #284b63; 
+  padding: 15px;
+  border-radius: 10px 0 0 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 999;
+}
+
+.social-sidebar-right a {
+  color: #FF9F1C;
+  font-size: 24px;
+  transition: transform 0.2s;
+}
+
+.social-sidebar-right a:hover {
+  transform: scale(1.2);
+}
+
+/* Hide on mobile devices so it doesn't overlap text */
+@media screen and (max-width: 900px) {
+  .social-sidebar-right {
+    display: none;
+  }
+}
 .main-content p {
   text-align: justify;
 }
