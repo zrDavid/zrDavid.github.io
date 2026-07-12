@@ -45,6 +45,16 @@ a:visited {
   color: #415A77;
 }
 
+/* Desktop: Hide the mobile footer, show the sidebar */
+.social-mobile-footer {
+  display: none;
+}
+
+/* Desktop: Hide the mobile footer, show the sidebar */
+.social-mobile-footer {
+  display: none;
+}
+
 /* Sidebar Banner styling */
 .social-sidebar-right {
   position: fixed;
@@ -74,7 +84,20 @@ a:visited {
   .social-sidebar-right {
     display: none;
   }
-}
-.main-content p {
-  text-align: justify;
+
+  /* Show the footer instead */
+  .social-mobile-footer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #778DA9;
+    margin-top: 40px;
+  }
+  
+  .social-mobile-footer a {
+    color: #284b63;
+    font-size: 28px;
+  }
+  
 }
