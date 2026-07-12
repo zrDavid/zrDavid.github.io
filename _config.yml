@@ -1,3 +1,14 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Portfolio
 description: From Circuit to Interface
+
+social:
+  - platform: github
+    icon: fa-github
+    url: https://github.com/zrDavid
+  - platform: linkedin
+    icon: fa-linkedin
+    url: https://linkedin.com/in/yourprofile
+  - platform: codepen
+    icon: fa-codepen
+    url: https://codepen.io/yourprofile
