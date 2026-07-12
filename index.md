@@ -2,7 +2,6 @@
 layout: default
 title: David Zegarra
 ---
-!-- Social Sidebar Section -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <div class="social-sidebar-right">
@@ -12,7 +11,6 @@ title: David Zegarra
     </a>
   {% endfor %}
 </div>
-<!-- End Sidebar -->
 
 # ABOUT ME
 Hi!, I'm a professional in Electronics with +20 years in the field. A self-taught programmer, these days I navigate the embedded circuit and web interface domains, building at the intersection of embedded systems, IoT/RFID, and web development. An advocate of good documentation, because it's what keeps a project alive and shareable.
