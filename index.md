@@ -15,21 +15,3 @@ Categorized by domain.
 * [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/)
 
 ## Embedded Systems:
-
-
-
-<div class="social-sidebar-right">
-  {% for link in site.social %}
-    <a href="{{ link.url }}" target="_blank" aria-label="{{ link.platform }}">
-      <i class="fab {{ link.icon }}"></i>
-    </a>
-  {% endfor %}
-</div>
-
-<div class="social-mobile-footer">
-  {% for link in site.social %}
-    <a href="{{ link.url }}" target="_blank" aria-label="{{ link.platform }}">
-      <i class="fab {{ link.icon }}"></i>
-    </a>
-  {% endfor %}
-</div>
