@@ -26,11 +26,13 @@ body {
 }
 
 .page-header h2 {
-  text-align: left !important;
+  text-align: center !important;
   max-width: 800px !important; 
   color: #0F172A !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  position: relative;
+  top: -40px;
 }
 
 // Header color
