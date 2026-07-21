@@ -11,7 +11,7 @@ Hi!, I'm a professional in Electronics with +20 years in the field. A self-taugh
 Categorized by domain. 
 
 ## Web Development
-* [🎉 Confetti Challenge](https://zrdavid.github.io/Confetti_Challenge/)
-* [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/)
+* [🎉 Confetti Challenge](https://zrdavid.github.io/Confetti_Challenge/) - HTML Canvas exploration: Understanding 2D graphics primitives before moving to Three.js
+* [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/) - Three.js visualization prototype: Exploring real-time 3D rendering for industrial applications.
 
 ## Embedded Systems:
