@@ -17,19 +17,23 @@ Categorized by domain.
 ## Embedded Systems:
 
 
+<!-- FontAwesome CDN import to fix the empty squares -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- Right-side floating sidebar (Desktop) -->
 <div class="social-sidebar-right">
   {% for link in site.social %}
     <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa {{ link.icon }}"></i>
+      <i class="fa-brands {{ link.icon }}"></i>
     </a>
   {% endfor %}
 </div>
 
-<!-- Mobile footer section at the bottom of index.md -->
+<!-- Footer bar (Mobile) -->
 <div class="social-mobile-footer">
   {% for link in site.social %}
     <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
-      <i class="fa {{ link.icon }}"></i>
+      <i class="fa-brands {{ link.icon }}"></i>
     </a>
   {% endfor %}
 </div>
