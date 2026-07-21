@@ -15,3 +15,28 @@ Categorized by domain.
 * [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/) - Three.js visualization prototype: Exploring real-time 3D rendering for industrial applications.
 
 ## Embedded Systems:
+
+
+<div class="social-sidebar-right">
+  {% for link in site.social %}
+    <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa {{ link.icon }}"></i>
+    </a>
+  {% endfor %}
+</div>
+
+<!-- Your main portfolio content goes below -->
+
+# Welcome to My Portfolio
+
+Your main content here...
+
+
+<!-- Mobile footer section at the bottom of index.md -->
+<div class="social-mobile-footer">
+  {% for link in site.social %}
+    <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
+      <i class="fa {{ link.icon }}"></i>
+    </a>
+  {% endfor %}
+</div>
