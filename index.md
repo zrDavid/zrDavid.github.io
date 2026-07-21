@@ -25,13 +25,6 @@ Categorized by domain.
   {% endfor %}
 </div>
 
-<!-- Your main portfolio content goes below -->
-
-# Welcome to My Portfolio
-
-Your main content here...
-
-
 <!-- Mobile footer section at the bottom of index.md -->
 <div class="social-mobile-footer">
   {% for link in site.social %}
