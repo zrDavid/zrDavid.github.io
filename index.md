@@ -15,7 +15,7 @@ Categorized by domain.
 * [🌀 3D Fan Simulation](https://zrDavid.github.io/Fan_Control/) - Three.js visualization prototype: Exploring real-time 3D rendering for industrial applications.
 
 ## Embedded Systems:
-
+* Modbus Reader - A Python application for reading Modbus RTU registers via serial communication.
 
 <!-- FontAwesome CDN import to fix the empty squares -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
